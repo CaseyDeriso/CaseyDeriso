@@ -7,7 +7,7 @@
 
 ## I'm a Full Stack Web Developer and Automotive Technician
 
-- 🌱 I am currely working on a certificate from the Univercity of Texas Web Development Bootcamp
+- 🌱 I am currely working on a certificate from the University of Texas Web Development Bootcamp
 - 📚 I am currently learning express.js
 - 🥅 2021 Goals: Land my first job as a Web Developer
 - 🧗🏽‍♂️ I enjoy rock climbing in my spare time
