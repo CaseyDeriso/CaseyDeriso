@@ -55,7 +55,7 @@
 
 <br />
 
-<img align="left" alt="CaseyDeriso's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyDeriso&layout=compact" />
+<img align="left" alt="CaseyDeriso's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyDeriso&layout=compact&hide_border=true" />
 
 <br />
 
