@@ -49,7 +49,18 @@
 
 ---
 
+### My Github Stats
+
 <img align="left" alt="CaseyDeriso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CaseyDeriso&show_icons=true&hide_border=true" />
+
+<br />
+
+---
+
+### My top languages
+
+<img align="left" alt="CaseyDeriso's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyDeriso&layout=compact" />
+
 
 [website]: https://caseyderiso.github.io/Professional-Portfolio
 [twitter]: https://twitter.com/nightpinic
