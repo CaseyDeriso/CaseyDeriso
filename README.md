@@ -1,5 +1,5 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaseyDeriso&repo=Readme-Generator&theme=merko)](https://github.com/CaseyDeriso/Readme-generator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JenniferFadare&repo=Wo-Ve-Mi&theme=merko)](https://github.com/JenniferFadare/Wo-Ve-Mi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaseyDeriso&repo=Readme-Generator)](https://github.com/CaseyDeriso/Readme-generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JenniferFadare&repo=Wo-Ve-Mi)](https://github.com/JenniferFadare/Wo-Ve-Mi)
 
 ### Hello! I am Casey Deriso
 
@@ -54,11 +54,11 @@
 
 ### My Github Stats
 
-<img align="left" alt="CaseyDeriso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CaseyDeriso&show_icons=true&hide_border=true&theme=merko" />
+<img align="left" alt="CaseyDeriso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CaseyDeriso&show_icons=true&hide_border=true" />
 
 <br />
 
-<img align="left" alt="CaseyDeriso's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyDeriso&layout=compact&hide_border=true&theme=merko" />
+<img align="left" alt="CaseyDeriso's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyDeriso&layout=compact&hide_border=true" />
 
 <br />
 
