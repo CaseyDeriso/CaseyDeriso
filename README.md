@@ -3,7 +3,7 @@
 
 ### Hello! I am Casey Deriso
 
-[![Website](https://img.shields.io/website?label=My_portfolio&style=for-the-badge&url=https%3A%2F%2Fcaseyderiso.github.io/Professional-Portfolio)](https://caseyderiso.github.io/Profesional-Portfolio)
+[![Website](https://img.shields.io/website?label=My_portfolio&style=for-the-badge&url=http%3A%2F%2Fcaseyderiso.com)](http://caseyderiso.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nightpinic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCaseyDeriso&screen_name=nightpinic)
 
 ---
@@ -62,7 +62,7 @@
 
 <br />
 
-[website]: https://caseyderiso.github.io/Professional-Portfolio
+[website]: http://caseyderiso.com
 [twitter]: https://twitter.com/nightpinic
 [instagram]: https://instagram.com/caseycollranchdorito
 [linkedin]: https://linkedin.com/in/casey-deriso-b789409b/
