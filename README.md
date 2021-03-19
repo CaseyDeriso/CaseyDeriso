@@ -11,7 +11,7 @@
 ## I'm a Full Stack Web Developer and Automotive Technician
 
 - 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
-- 📚 I am also learning Model-View-Controller architecture while building my first truly full-stack applications 
+- 📚 I am also getting my feet wet with full MERN stack applications using an Apollo graphql API.
 - 🥅 2021 Goals: Land my first job as a Web Developer
 - 🧗🏽‍♂️ I enjoy rock climbing in my spare time
 - 🔧 I currently work at Audi South Austin as a Service Technician
