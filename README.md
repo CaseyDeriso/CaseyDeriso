@@ -11,10 +11,10 @@
 ## I'm a Full Stack Web Developer and Automotive Technician
 
 - 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
-- 📚 My current project is a refactor for a MERN stack e-commerce application. Where I'm introducing global state management and secure payment. 
-- 🥅 2021 Goals: Land my first job as a Web Developer
-- 🧗🏽‍♂️ I enjoy rock climbing in my spare time
-- 🔧 I currently work at Audi South Austin as a Service Technician
+- 📚 My current project is a mobile app for plant lovers built with the MERN stack!
+- 🥅 2021 Goals: Land my first job as a web Developer!
+- 🧗🏽‍♂️ I enjoy rock climbing in my spare time.
+- 🔧 I currently work at Audi South Austin as a Service Technician.
 
 ---
 
