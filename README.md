@@ -1,6 +1,3 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaseyDeriso&repo=Readme-Generator)](https://github.com/CaseyDeriso/Readme-generator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JenniferFadare&repo=Wo-Ve-Mi)](https://github.com/JenniferFadare/Wo-Ve-Mi)
-
 ### Hello! I am Casey Deriso
 
 [![Website](https://img.shields.io/website?label=My_portfolio&style=for-the-badge&url=http%3A%2F%2Fradiant-island-24187.herokuapp.com/)](http://www.caseyderiso.com)
