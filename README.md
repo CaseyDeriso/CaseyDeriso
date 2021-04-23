@@ -1,11 +1,8 @@
-### Hello! I am Casey Deriso
-
-[![Website](https://img.shields.io/website?label=My_portfolio&style=for-the-badge&url=http%3A%2F%2Fradiant-island-24187.herokuapp.com/)](http://www.caseyderiso.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nightpinic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCaseyDeriso&screen_name=nightpinic)
+## Hello! I am Casey Deriso
 
 ---
 
-## I'm a Full Stack Web Developer and Automotive Technician
+### I'm a Full Stack Web Developer and Automotive Technician
 
 - 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
 - 📚 My current project is a mobile app for plant lovers built with the MERN stack!
