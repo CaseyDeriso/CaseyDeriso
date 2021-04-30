@@ -1,7 +1,5 @@
 ## Hello! I am Casey Deriso
 
----
-
 ### I'm a Full Stack Web Developer and Automotive Technician
 
 - 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
