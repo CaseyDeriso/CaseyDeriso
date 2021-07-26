@@ -4,9 +4,7 @@
 
 - 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
 - 📚 My current project is a mobile app for plant lovers built with the MERN stack!
-- 🥅 2021 Goals: Land my first job as a web Developer!
 - 🧗🏽‍♂️ I enjoy rock climbing in my spare time.
-- 🔧 I currently work at Audi South Austin as a Service Technician.
 
 ---
 
