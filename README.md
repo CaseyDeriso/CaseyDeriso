@@ -1,9 +1,9 @@
 ## Hello! I am Casey Deriso
 
-### I'm a Full Stack Web Developer and Automotive Technician
+### I'm a Full Stack Web Developer at The University of Texas at Austin
 
-- 🌱 I am currently working on a certificate from the University of Texas Web Development Bootcamp
-- 📚 My current project is a mobile app for plant lovers built with the MERN stack!
+- 🤘🏽 I work with Texas Development department as a Software Developer/Analyst. 
+- 📚 My current pet project is a mobile app for plant lovers built with the MERN stack!
 - 🧗🏽‍♂️ I enjoy rock climbing in my spare time.
 
 ---
